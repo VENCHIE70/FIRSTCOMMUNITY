@@ -44,12 +44,13 @@ export const CALENDAR_EVENTS: CalendarEvent[] = [
     id: 'cal-5',
     date: '2026-11-22',
     dayOfWeek: 'Domenica',
-    title: 'CRESIME IN PARROCCHIA - CHIESA ORE 11.15',
+    title: 'CRESIME IN PARROCCHIA',
     category: 'speciale',
     time: '11:15',
     location: 'Chiesa Parrocchiale',
-    notice: 'Ora e luogo da comunicare / Chiesa ore 11.15',
   },
+
+
   {
     id: 'cal-6',
     date: '2026-11-23',
