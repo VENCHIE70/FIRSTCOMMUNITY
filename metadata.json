@@ -1,0 +1,7 @@
+{
+  "name": "1^ Comunità S.AP. - Rubrica & Calendario",
+  "description": "App per Android e mobile: rubrica della 1^ Comunità S.AP. con inserimento contatti nel telefono e calendario preparazioni con esportazione su Google Calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
