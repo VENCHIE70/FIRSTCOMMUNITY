@@ -8,7 +8,7 @@ export const CALENDAR_EVENTS: CalendarEvent[] = [
     title: '2^ serata 6° tema "Apocalisse"',
     category: 'tema',
     preparationGroup: 'Massimo e Luisella, Claudio e Elena, Alessandra M., paolo e Lucia',
-    time: '21:00',
+    time: '19:45',
     location: 'Comunità',
   },
   {
@@ -28,7 +28,7 @@ export const CALENDAR_EVENTS: CalendarEvent[] = [
     title: '3^ serata 6° tema "Apocalisse"',
     category: 'tema',
     preparationGroup: 'Massimo e Luisella, Claudio e Elena, Alessandra M., paolo e Lucia',
-    time: '21:00',
+    time: '19:45',
     location: 'Comunità',
   },
   {
@@ -56,7 +56,7 @@ export const CALENDAR_EVENTS: CalendarEvent[] = [
     dayOfWeek: 'Lunedì',
     title: 'ANNUNCIO DI AVVENTO',
     category: 'speciale',
-    time: '21:00',
+    time: '20:00',
     location: 'Da comunicare',
     notice: 'Ora e luogo da comunicare',
   },
@@ -66,7 +66,7 @@ export const CALENDAR_EVENTS: CalendarEvent[] = [
     dayOfWeek: 'Martedì',
     title: 'Garanti',
     category: 'incontro',
-    time: '21:00',
+    time: '19:45',
     location: 'Da comunicare',
     notice: 'Ora e luogo da comunicare',
   },
@@ -77,7 +77,7 @@ export const CALENDAR_EVENTS: CalendarEvent[] = [
     title: 'Eucarestia',
     category: 'eucarestia',
     preparationGroup: 'Paola Z., Andrea e Barbara, Betty B., Marilisa',
-    time: '20:30',
+    time: '19:45',
     location: 'Comunità',
   },
   {
@@ -87,7 +87,7 @@ export const CALENDAR_EVENTS: CalendarEvent[] = [
     title: 'Liturgia della Parola (temino)',
     category: 'parola',
     preparationGroup: 'Alessandro e Antonietta, Stefano e Maria, Andrea e Sabrina',
-    time: '21:00',
+    time: '19:45',
     location: 'Comunità',
   },
   {
@@ -97,7 +97,7 @@ export const CALENDAR_EVENTS: CalendarEvent[] = [
     title: 'Eucarestia',
     category: 'eucarestia',
     preparationGroup: 'Giovanni F., Paolo e Michela, Anna, Lucia R.',
-    time: '20:30',
+    time: '19:45',
     location: 'Comunità',
   },
   {
@@ -117,7 +117,7 @@ export const CALENDAR_EVENTS: CalendarEvent[] = [
     title: 'Eucarestia',
     category: 'eucarestia',
     preparationGroup: 'Mario e Lucia, Francesca, Elvira, Andrea e Maddalena',
-    time: '20:30',
+    time: '19:45',
     location: 'Comunità',
   },
   {
@@ -127,7 +127,7 @@ export const CALENDAR_EVENTS: CalendarEvent[] = [
     title: 'Penitenziale',
     category: 'penitenziale',
     preparationGroup: 'Marta, Olga, Giuseppe e Cinzia, Rosa, Maria D.',
-    time: '21:00',
+    time: '19:45',
     location: 'Comunità',
   },
   {
@@ -137,7 +137,7 @@ export const CALENDAR_EVENTS: CalendarEvent[] = [
     title: 'EUCARESTIA DELLA CONVIVENZA',
     category: 'eucarestia',
     preparationGroup: 'A cura dei Responsabili',
-    time: '20:30',
+    time: '19:45',
     location: 'Comunità',
   },
   {
@@ -147,7 +147,7 @@ export const CALENDAR_EVENTS: CalendarEvent[] = [
     title: 'CONVIVENZA',
     category: 'convivenza',
     preparationGroup: 'A cura dei Responsabili',
-    time: '09:30',
+    time: '10:00',
     location: 'Luogo da comunicare',
   },
   {
@@ -157,7 +157,7 @@ export const CALENDAR_EVENTS: CalendarEvent[] = [
     title: 'Liturgia della Parola (temino)',
     category: 'parola',
     preparationGroup: 'Vittorio e Marina, Chiara, Fabrizio, Franca, Carla',
-    time: '21:00',
+    time: '19:45',
     location: 'Comunità',
   },
   {
@@ -166,10 +166,11 @@ export const CALENDAR_EVENTS: CalendarEvent[] = [
     dayOfWeek: 'Giovedì',
     title: 'EUCARESTIA DELLA VIGILIA DI NATALE IN CHIESA',
     category: 'eucarestia',
-    time: '23:00',
+    time: '23:30',
     location: 'Chiesa Parrocchiale',
-    notice: 'Celebrazione solenne della Notte di Natale',
+    notice: 'Celebrazione solenne della Notte di Natale in Chiesa',
   },
+
   {
     id: 'cal-18',
     date: '2026-12-31',
@@ -186,7 +187,7 @@ export const CALENDAR_EVENTS: CalendarEvent[] = [
     dayOfWeek: 'Martedì',
     title: "Eucarestia Vigilia dell'Epifania",
     category: 'eucarestia',
-    time: '20:30',
+    time: '19:45',
     location: 'Comunità',
     notice: 'GRUPPO DI PREPARAZIONE DA COMUNICARE',
   },
